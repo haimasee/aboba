@@ -1,0 +1,15 @@
+C:\Users\hreno\source\repos\ppplays\ppplays\bin\Debug\net6.0\ppplays.exe
+C:\Users\hreno\source\repos\ppplays\ppplays\bin\Debug\net6.0\ppplays.deps.json
+C:\Users\hreno\source\repos\ppplays\ppplays\bin\Debug\net6.0\ppplays.runtimeconfig.json
+C:\Users\hreno\source\repos\ppplays\ppplays\bin\Debug\net6.0\ppplays.dll
+C:\Users\hreno\source\repos\ppplays\ppplays\bin\Debug\net6.0\ppplays.pdb
+C:\Users\hreno\source\repos\ppplays\ppplays\obj\Debug\net6.0\ppplays.csproj.AssemblyReference.cache
+C:\Users\hreno\source\repos\ppplays\ppplays\obj\Debug\net6.0\ppplays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hreno\source\repos\ppplays\ppplays\obj\Debug\net6.0\ppplays.AssemblyInfoInputs.cache
+C:\Users\hreno\source\repos\ppplays\ppplays\obj\Debug\net6.0\ppplays.AssemblyInfo.cs
+C:\Users\hreno\source\repos\ppplays\ppplays\obj\Debug\net6.0\ppplays.csproj.CoreCompileInputs.cache
+C:\Users\hreno\source\repos\ppplays\ppplays\obj\Debug\net6.0\ppplays.dll
+C:\Users\hreno\source\repos\ppplays\ppplays\obj\Debug\net6.0\refint\ppplays.dll
+C:\Users\hreno\source\repos\ppplays\ppplays\obj\Debug\net6.0\ppplays.pdb
+C:\Users\hreno\source\repos\ppplays\ppplays\obj\Debug\net6.0\ppplays.genruntimeconfig.cache
+C:\Users\hreno\source\repos\ppplays\ppplays\obj\Debug\net6.0\ref\ppplays.dll
